@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phonebook-react-classes/static/css/main.822bc392.css",
+    "main.js": "/phonebook-react-classes/static/js/main.781c4c9d.js",
+    "static/media/cross.svg": "/phonebook-react-classes/static/media/cross.d5ab96da0d54fcdcdcde3e1f38b2c478.svg",
+    "index.html": "/phonebook-react-classes/index.html",
+    "static/media/plus.svg": "/phonebook-react-classes/static/media/plus.7c09677bf9581270ebdcbc2378667f39.svg",
+    "main.822bc392.css.map": "/phonebook-react-classes/static/css/main.822bc392.css.map",
+    "main.781c4c9d.js.map": "/phonebook-react-classes/static/js/main.781c4c9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822bc392.css",
+    "static/js/main.781c4c9d.js"
+  ]
+}
